@@ -2,6 +2,6 @@ Flask==3.0.2
 Flask-Cors==4.0.0
 regex==2022.10.31
 Werkzeug==3.0.1
-nltk==3.8.1
+nltk==3.9
 typing==3.7.4.3
 gunicorn==22.0.0
