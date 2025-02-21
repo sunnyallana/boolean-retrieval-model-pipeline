@@ -2,6 +2,13 @@
 
 A robust document search engine built with Flask and React that supports boolean and proximity search operations. This system allows users to upload text documents and perform advanced searches with real-time indexing.
 
+
+# DEMO
+
+[![Project Demo Video](https://github.com/user-attachments/assets/7f14e9ac-9e6b-4f4a-ba67-28034ffd967b)](https://youtu.be/ec_bCMJF1mM)
+*Click the image above to watch the full demo video*
+
+
 ## Features
 
 - Boolean search operations (AND, OR, NOT)
